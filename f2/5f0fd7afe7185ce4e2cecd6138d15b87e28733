@@ -1,0 +1,21 @@
+fe/fe-core/src/main/java/org/apache/doris/nereids/load/NereidsLoadScanProvider.java
+  s_72e24e55b0a1e5::t_2f22ba460de5ef 452-453
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "f25f0fd7afe7185ce4e2cecd6138d15b87e28733",
+  "prompts": {},
+  "sessions": {
+    "s_72e24e55b0a1e5": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a3f3c09e5b43afa3342256b",
+        "model": "openrouter-3o__dev"
+      },
+      "human_author": "yuanbin.me <yuanbin2014@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}

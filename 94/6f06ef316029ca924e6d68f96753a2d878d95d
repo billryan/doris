@@ -1,0 +1,27 @@
+fe/fe-core/src/main/java/org/apache/doris/nereids/load/NereidsLoadScanProvider.java
+  s_72e24e55b0a1e5::t_2f22ba460de5ef 468-469,470-488
+  s_72e24e55b0a1e5::t_1cd4f32f69461c 43
+  s_72e24e55b0a1e5::t_73ed5f2ca4ab2d 202-211
+  s_72e24e55b0a1e5::t_b74e8eaf45dca2 215
+  s_72e24e55b0a1e5::t_9e85c6ff15e200 216-217
+regression-test/suites/load_p0/routine_load/test_routine_load_fill_missing_columns.groovy
+  s_72e24e55b0a1e5::t_12c98a6c272e74 244-348
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "946f06ef316029ca924e6d68f96753a2d878d95d",
+  "prompts": {},
+  "sessions": {
+    "s_72e24e55b0a1e5": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a3f3c09e5b43afa3342256b",
+        "model": "openrouter-3o__dev"
+      },
+      "human_author": "yuanbin.me <yuanbin2014@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
