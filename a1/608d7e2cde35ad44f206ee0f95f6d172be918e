@@ -1,0 +1,25 @@
+fe/fe-core/src/test/java/org/apache/doris/nereids/load/NereidsBrokerLoadTaskTest.java
+  s_72e24e55b0a1e5::t_f181d75a53e27c 20-34
+fe/fe-core/src/test/java/org/apache/doris/nereids/load/NereidsLoadScanProviderTest.java
+  s_72e24e55b0a1e5::t_1dc054eebb6583 32-33
+  s_72e24e55b0a1e5::t_b2c9a8accb49d8 58,96-125,191
+  s_72e24e55b0a1e5::t_92c7cb19e9cb7d 67-86,135-178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "a1608d7e2cde35ad44f206ee0f95f6d172be918e",
+  "prompts": {},
+  "sessions": {
+    "s_72e24e55b0a1e5": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a3f3c09e5b43afa3342256b",
+        "model": "openrouter-3o__dev"
+      },
+      "human_author": "yuanbin.me <yuanbin2014@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
