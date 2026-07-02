@@ -1,0 +1,16 @@
+fe/fe-core/src/test/java/org/apache/doris/load/routineload/RoutineLoadJobTest.java
+  h_7a0ee7b374a85a 30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "c0eded531141f54c7980a74ec683f98bef1b81c0",
+  "prompts": {},
+  "humans": {
+    "h_7a0ee7b374a85a": {
+      "author": "yuanbin.me <yuanbin2014@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
