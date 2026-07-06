@@ -1,0 +1,16 @@
+fe/fe-core/src/test/java/org/apache/doris/nereids/trees/plans/commands/info/CreateRoutineLoadInfoTest.java
+  h_7a0ee7b374a85a 85-86,98-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "0551877b1258cd03e297df6f482785d32cd041fd",
+  "prompts": {},
+  "humans": {
+    "h_7a0ee7b374a85a": {
+      "author": "yuanbin.me <yuanbin2014@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
