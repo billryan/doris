@@ -1,0 +1,20 @@
+fe/fe-core/src/test/java/org/apache/doris/nereids/trees/plans/commands/AlterRoutineLoadCommandTest.java
+  h_7a0ee7b374a85a 49,75,158-175
+fe/fe-core/src/main/java/org/apache/doris/nereids/trees/plans/commands/AlterRoutineLoadCommand.java
+  h_7a0ee7b374a85a 324-332
+fe/fe-core/src/main/java/org/apache/doris/load/routineload/RoutineLoadJob.java
+  h_7a0ee7b374a85a 1818-1821,1823
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "dbd17978dc7023d153f6796255b99e14aefe0ad3",
+  "prompts": {},
+  "humans": {
+    "h_7a0ee7b374a85a": {
+      "author": "yuanbin.me <yuanbin2014@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
