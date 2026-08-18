@@ -1,0 +1,33 @@
+docs/design/fill_missing_columns_routine_load.md
+  s_ee085987b2e57b::t_878439621e4198 67,70-71,85,89,138-139,155-171,173-179,188-215
+  s_ee085987b2e57b::t_a53f552f183b2d 226-266
+  s_ee085987b2e57b::t_e61c3aaba8a7cc 110-136
+  s_ee085987b2e57b::t_42f6ccac9957f8 172,180-187
+  s_ee085987b2e57b::t_e408a3ad512088 64-66
+  s_ee085987b2e57b::t_9e8cab1cf81a87 68-69
+  s_ee085987b2e57b::t_22224465e95200 72-74,82-84
+  s_ee085987b2e57b::t_d34f0a89bbe87b 86-88
+  s_ee085987b2e57b::t_1a513ce6cfc0c8 90-92,107-109
+  s_ee085987b2e57b::t_2460498d5c10f4 137
+  s_ee085987b2e57b::t_4e6c0a35180e3e 140-142,152-154
+  s_ee085987b2e57b::t_e95bf35cdb535f 216-218,223-225
+  s_ee085987b2e57b::t_18c00616e2fbcd 267-269
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "432765845ffd54f3cbe108f946d7dce1d48bce55",
+  "prompts": {},
+  "sessions": {
+    "s_ee085987b2e57b": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a5f09f17eead80fd28f5de7",
+        "model": "openrouter-3o__dev"
+      },
+      "human_author": "yuanbin.me <yuanbin2014@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
